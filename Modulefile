@@ -1,0 +1,10 @@
+name          'brutus777-ssh_authorized_keys'
+version       '0.0.1'
+source        'https://github.com/brutus333/ssh_authorized_keys.git'
+author        'virgil.chereches@gmx.net'
+license       'Apache 2.0'
+summary       'Distribute ssh authorized keys based on hash arguments'
+description   ''
+project_page  'https://github.com/brutus333/ssh_authorized_keys'
+
+dependency 'puppetlabs/stdlib'

@@ -1,0 +1,13 @@
+{
+  "name": "brutus777-ssh_authorized_keys",
+  "version": "0.1.0",
+  "author": "virgil.chereches@gmx.net",
+  "summary": "Distribute ssh authorized keys based on hash arguments",
+  "license": "Apache 2.0",
+  "source": "https://github.com/brutus333/ssh_authorized_keys.git",
+  "project_page": "https://github.com/brutus333/ssh_authorized_keys",
+  "issues_url": "https://github.com/brutus333/ssh_authorized_keys/issues",
+  "dependencies": [
+    {"version_requirement":">= 1.0.0","name":"puppetlabs-stdlib"}
+  ]
+}
